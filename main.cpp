@@ -1,9 +1,7 @@
 /* ---------------------------------------------
-Program 1: DNA Profiling
-Course: CS 211, Fall 2022. 
+Program 2: Search engine  
 System: MacOS using replit
 Author: Yousef Habeeb
-UIN: 652622525
 ---------------------------------------------
 */
 
